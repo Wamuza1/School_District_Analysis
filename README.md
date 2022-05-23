@@ -3,6 +3,9 @@ The purpose of this project analysis to help Maria analyzing data on student fun
 
 # Results: 
 o	How is the district summary affected?
+
+As we see looking at the results that there is a slight decrease in overall scores.
+
 Original Analysis
 
 <img width="969" alt="Screen Shot 2022-05-22 at 9 00 33 PM" src="https://user-images.githubusercontent.com/92646311/169724815-23e31200-605a-4775-976e-2683dce3c651.png">
@@ -11,8 +14,9 @@ New District summary:
 <img width="965" alt="Screen Shot 2022-05-22 at 8 05 37 PM" src="https://user-images.githubusercontent.com/92646311/169722147-92b5a184-fb13-4e1e-8ffd-ff8400392b49.png">
 
 
-
 o	How is the school summary affected?
+
+The decline in Passing Math, Passing Reading  and overall Passing scores can be seen in the inamge.
 
 Orignal Analysis
 
@@ -23,6 +27,11 @@ New School Summary:
 <img width="1005" alt="Screen Shot 2022-05-22 at 8 15 08 PM" src="https://user-images.githubusercontent.com/92646311/169722524-25b39f75-9001-4cf3-8533-e906663d1a93.png">
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+<img width="1016" alt="Screen Shot 2022-05-22 at 9 21 35 PM" src="https://user-images.githubusercontent.com/92646311/169726695-1350c5ab-9f4f-486b-a895-f14d422e5d51.png">
+<img width="1003" alt="Screen Shot 2022-05-22 at 9 20 39 PM" src="https://user-images.githubusercontent.com/92646311/169726707-dfc7a507-e28b-4aa9-9a19-9e3cfb2a3055.png">
+
+
 o	How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
