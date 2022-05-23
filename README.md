@@ -32,6 +32,9 @@ The only differences are the averages and percentages passing scrores at Thomas 
 
 <img width="1006" alt="Screen Shot 2022-05-22 at 9 43 25 PM" src="https://user-images.githubusercontent.com/92646311/169727917-d7af792a-5f9d-46b5-931a-341f3a299b78.png">
 
+<img width="868" alt="Screen Shot 2022-05-22 at 9 48 24 PM" src="https://user-images.githubusercontent.com/92646311/169728324-fbe2a497-45c2-4136-b8cc-4ab7197219bc.png">
+
+
 
 The only differences are the averages and percentages passing scrores at Thomas High School, everything  else 
 
