@@ -74,7 +74,7 @@ Medium (1000-2000) nominal changes can be observed.
 
 <img width="634" alt="Screen Shot 2022-05-22 at 10 23 09 PM" src="https://user-images.githubusercontent.com/92646311/169731546-50f428bb-dfe0-4cfc-9c9e-e8fcdddf0674.png">
 
-<img width="803" alt="Screen Shot 2022-05-22 at 8 27 00 PM" src="https://user-images.githubusercontent.com/92646311/169723051-5ffcb768-dda6-4e8c-a6de-e7d70a333fef.png">
+<img width="802" alt="Screen Shot 2022-05-22 at 11 51 14 PM" src="https://user-images.githubusercontent.com/92646311/169740070-9412aced-05be-43b4-bfcb-da8b53d76d77.png">
 
 
 # Summary: 
