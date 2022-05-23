@@ -28,39 +28,61 @@ New School Summary:
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-The only differences are the averages and percentages passing scrores at Thomas High School. Scheel performance relatively remain the same compared to the other schools. Also, Thomas high school reamins in top five schools.
+The only differences are the averages and percentages passing scrores at Thomas High School. Scheel performance relatively remain the same compared to the other schools.
 
 <img width="1006" alt="Screen Shot 2022-05-22 at 9 43 25 PM" src="https://user-images.githubusercontent.com/92646311/169727917-d7af792a-5f9d-46b5-931a-341f3a299b78.png">
 
 <img width="1002" alt="Screen Shot 2022-05-22 at 9 53 48 PM" src="https://user-images.githubusercontent.com/92646311/169728787-22d4655b-6d2d-4048-97ce-ea5c3ac0666c.png">
 
+
+
+
+The only differences are the averages and percentages passing scrores at Thomas High School, everything  else 
+
 o	How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
-Math:
+Math Scores:
 
-<img width="310" alt="Screen Shot 2022-05-22 at 8 21 29 PM" src="https://user-images.githubusercontent.com/92646311/169722809-2c18d03c-0c3d-4bf5-bfe1-46be59550c2c.png">
+In the orignal script the Math scores in Thomas High School	83.590022 and  ninth-grade Math scores replaced with NAN in new summery.
 
-Reading:
+In the orignal script the Reading scores in Thomas High School	83.728850 and  ninth-grade Reading scores replaced with NAN in new summery.
 
-<img width="324" alt="Screen Shot 2022-05-22 at 8 22 27 PM" src="https://user-images.githubusercontent.com/92646311/169722845-87e46bb2-ac86-444b-a790-01e0e8194ad0.png">
+Reading:<img width="313" alt="Screen Shot 2022-05-22 at 10 05 22 PM" src="https://user-images.githubusercontent.com/92646311/169729935-1a67a1bb-41d8-4600-b018-41ea813a6f16.png">
+
+Reading Scores:
+
+<img width="323" alt="Screen Shot 2022-05-22 at 10 06 59 PM" src="https://user-images.githubusercontent.com/92646311/169730023-682c807a-0d34-46ab-8006-10e30007672c.png">
 
 
 -	Scores by school spending
+
+Spending Range ($630-644), slightly changes can be seen.
+
+<img width="631" alt="Screen Shot 2022-05-22 at 10 19 04 PM" src="https://user-images.githubusercontent.com/92646311/169731209-48b5665b-923c-4ddc-803b-efe21db72be5.png">
 
 <img width="810" alt="Screen Shot 2022-05-22 at 8 23 54 PM" src="https://user-images.githubusercontent.com/92646311/169722932-8e5b67c8-7128-453d-80ac-e152bae8b0f8.png">
 
 - Scores by school size
 
+Medium (1000-2000) nominal changes can be observed.
+
+<img width="637" alt="Screen Shot 2022-05-22 at 10 21 05 PM" src="https://user-images.githubusercontent.com/92646311/169731352-2243c995-4579-4500-8ed9-f18d070d8a83.png">
+
 <img width="803" alt="Screen Shot 2022-05-22 at 8 27 00 PM" src="https://user-images.githubusercontent.com/92646311/169723034-101dcaa1-5ee3-4f94-9369-cd81c033ba17.png">
 
  - Scores by school type:
+ By changing 9th grade scores, a slightly affact on school type "Charter". 
+
+<img width="634" alt="Screen Shot 2022-05-22 at 10 23 09 PM" src="https://user-images.githubusercontent.com/92646311/169731546-50f428bb-dfe0-4cfc-9c9e-e8fcdddf0674.png">
 
 <img width="803" alt="Screen Shot 2022-05-22 at 8 27 00 PM" src="https://user-images.githubusercontent.com/92646311/169723051-5ffcb768-dda6-4e8c-a6de-e7d70a333fef.png">
 
 
 # Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs such as:
+1. Score and percentage changes were minimal in at Thomas High School. 
+2. The removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
 
