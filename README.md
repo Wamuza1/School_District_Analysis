@@ -72,7 +72,8 @@ Medium (1000-2000) nominal changes can be observed.
  - Scores by school type:
  By changing 9th grade scores, a slightly affact on school type "Charter". 
 
-<img width="634" alt="Screen Shot 2022-05-22 at 10 23 09 PM" src="https://user-images.githubusercontent.com/92646311/169731546-50f428bb-dfe0-4cfc-9c9e-e8fcdddf0674.png">
+<img width="727" alt="Screen Shot 2022-05-22 at 11 53 22 PM" src="https://user-images.githubusercontent.com/92646311/169740334-1dddbb9f-56e4-413a-849b-207fe1bfd502.png">
+
 
 <img width="802" alt="Screen Shot 2022-05-22 at 11 51 14 PM" src="https://user-images.githubusercontent.com/92646311/169740070-9412aced-05be-43b4-bfcb-da8b53d76d77.png">
 
