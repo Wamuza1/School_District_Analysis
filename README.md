@@ -28,11 +28,12 @@ New School Summary:
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-The only differences are the averages and percentages passing scrores at Thomas High School.
+The only differences are the averages and percentages passing scrores at Thomas High School. Scheel performance relatively remain the same compared to the other schools.
 
 <img width="1006" alt="Screen Shot 2022-05-22 at 9 43 25 PM" src="https://user-images.githubusercontent.com/92646311/169727917-d7af792a-5f9d-46b5-931a-341f3a299b78.png">
 
-<img width="868" alt="Screen Shot 2022-05-22 at 9 48 24 PM" src="https://user-images.githubusercontent.com/92646311/169728324-fbe2a497-45c2-4136-b8cc-4ab7197219bc.png">
+<img width="1002" alt="Screen Shot 2022-05-22 at 9 53 48 PM" src="https://user-images.githubusercontent.com/92646311/169728787-22d4655b-6d2d-4048-97ce-ea5c3ac0666c.png">
+
 
 
 
