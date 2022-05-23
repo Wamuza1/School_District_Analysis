@@ -1,8 +1,8 @@
 # Overview of the school district analysis:  
-The purpose of this project analysis to help Maria analyzing data on student funding and students’ standardized tests scores. Our task is to aggregate the data and showcase trends in school performance. This analysis will assist the school board and superintendent in making regarding the school budgets and priorities. 
+The purpose of this project analysis to help Maria analyzing data on student funding and students’ standardized tests scores. Our task is to aggregate the data and showcase trends in school performance. This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities. 
 
 # Results: 
-o	How is the district summary affected?
+**How is the district summary affected?
 
 As we see looking at the results that there is a slight decrease in overall scores.
 
@@ -14,7 +14,7 @@ New District summary:
 <img width="965" alt="Screen Shot 2022-05-22 at 8 05 37 PM" src="https://user-images.githubusercontent.com/92646311/169722147-92b5a184-fb13-4e1e-8ffd-ff8400392b49.png">
 
 
-o	How is the school summary affected?
+**How is the school summary affected?
 
 The decline in Passing Math, Passing Reading  and overall Passing scores can be seen in the inamge.
 
@@ -26,7 +26,7 @@ New School Summary:
 
 <img width="1005" alt="Screen Shot 2022-05-22 at 8 15 08 PM" src="https://user-images.githubusercontent.com/92646311/169722524-25b39f75-9001-4cf3-8533-e906663d1a93.png">
 
-o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 The only differences are the averages and percentages passing scrores at Thomas High School. Scheel performance relatively remain the same compared to the other schools.
 
@@ -34,12 +34,7 @@ The only differences are the averages and percentages passing scrores at Thomas 
 
 <img width="1002" alt="Screen Shot 2022-05-22 at 9 53 48 PM" src="https://user-images.githubusercontent.com/92646311/169728787-22d4655b-6d2d-4048-97ce-ea5c3ac0666c.png">
 
-
-
-
-The only differences are the averages and percentages passing scrores at Thomas High School, everything  else 
-
-o	How does replacing the ninth-grade scores affect the following:
+**How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
@@ -82,7 +77,11 @@ Medium (1000-2000) nominal changes can be observed.
 
 # Summary: 
 
-Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs such as:
 1. Score and percentage changes were minimal in at Thomas High School. 
-2. The removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+2. The removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be. The district summary also changed and had a lesser effect.
+3. In school summary, Math, Reading and overall Passing scores significantly dropped.
+4. Scores by school spending, school size, and school type had minimal affects. Moreover, the removal of math and reading scores of 9th graders at Thomas High School has not overall significant affects.
+
+
+
 
