@@ -28,9 +28,12 @@ New School Summary:
 
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-<img width="1016" alt="Screen Shot 2022-05-22 at 9 21 35 PM" src="https://user-images.githubusercontent.com/92646311/169726695-1350c5ab-9f4f-486b-a895-f14d422e5d51.png">
-<img width="1003" alt="Screen Shot 2022-05-22 at 9 20 39 PM" src="https://user-images.githubusercontent.com/92646311/169726707-dfc7a507-e28b-4aa9-9a19-9e3cfb2a3055.png">
+The only differences are the averages and percentages passing scrores at Thomas High School.
 
+<img width="1006" alt="Screen Shot 2022-05-22 at 9 43 25 PM" src="https://user-images.githubusercontent.com/92646311/169727917-d7af792a-5f9d-46b5-931a-341f3a299b78.png">
+
+
+The only differences are the averages and percentages passing scrores at Thomas High School, everything  else 
 
 o	How does replacing the ninth-grade scores affect the following:
 
